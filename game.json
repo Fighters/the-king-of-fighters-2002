@@ -693,6 +693,19 @@
           "original": "バイス"
         }
       ]
+    },
+    {
+      "regions": [
+        {
+          "region": "default",
+          "roman": "Kusanagi"
+        },
+        {
+          "region": "japan",
+          "roman": "Kusanagi",
+          "original": "KUSANAGI"
+        }
+      ]
     }
   ]
 }
