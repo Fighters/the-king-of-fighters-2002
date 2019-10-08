@@ -7,7 +7,8 @@
         "desperationMoves": "Desperation Moves",
         "superDesperationMove": "Super Desperation Move",
         "superDesperationMoves": "Super Desperation Moves",
-        "hiddenSuperDesperationMoves": "Hidden Super Desperation Move"
+        "hiddenSuperDesperationMove": "Hidden Super Desperation Move",
+        "hiddenSuperDesperationMoves": "Hidden Super Desperation Moves"
     },
     "portuguese": {
         "normalThrows": "Agarrões Normais",
@@ -17,6 +18,7 @@
         "desperationMoves": "Desperation Moves",
         "superDesperationMove": "Super Desperation Move",
         "superDesperationMoves": "Super Desperation Moves",
-        "hiddenSuperDesperationMoves": "Hidden Super Desperation Move"
+        "hiddenSuperDesperationMove": "Hidden Super Desperation Move",
+        "hiddenSuperDesperationMoves": "Hidden Super Desperation Moves"
     }
 }
