@@ -1,0 +1,68 @@
+{
+  "names": {
+    "default": {
+      "roman": "K9999"
+    },
+    "japan": {
+      "roman": "K9999",
+      "original": "ケイフォーナイン"
+    }
+  },
+  "images": {
+    "face": "k9999.webp"
+  },
+  "moves": {
+    "{normalThrows}": [
+      {
+        "name": "Get lost!",
+        "input": "{close}, :b: {or} :f:+[C]"
+      },
+      {
+        "name": "Quit playing!",
+        "input": "{close}, :b: {or} :f:+[D]"
+      }
+    ],
+    "{commandMoves}": [
+      {
+        "name": "Shut up!",
+        "input": ":f:+[A]"
+      }
+    ],
+    "{specialMoves}": [
+      {
+        "name": "Get out of my sight!",
+        "input": ":qcf:+[A] {or} [C]"
+      },
+      {
+        "name": "Split!",
+        "input": ":dp:+[A] {or} [C]"
+      },
+      {
+        "name": "Shatter!",
+        "input": ":qcb:+[B] {or} [D]"
+      }
+    ],
+    "{desperationMoves}": [
+      {
+        "name": "Moon...",
+        "input": ":db::hcb::df:+[A] {or} [C]"
+      },
+      {
+        "name": "You get lost too!!!",
+        "input": ":db::hcb::df:+[B] {or} [D]"
+      }
+    ],
+    "{superDesperationMoves}": [
+      {
+        "name": "Power... Losing control!... yah!",
+        "input": ":d::f::df:+[A]+[B]+[C]+[D]"
+      }
+    ],
+    "{hiddenSuperDesperationMoves}": [
+      {
+        "name": "This is like...!!",
+        "input": "{inAir}, :b::f::b::f::b::f::b::f:"
+      }
+    ]
+  }
+}
