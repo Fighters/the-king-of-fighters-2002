@@ -1,0 +1,80 @@
+{
+  "names": {
+    "default": {
+      "roman": "Iori Orochi"
+    },
+    "japan": {
+      "roman": "Iori Orochi",
+      "original": "暴走庵"
+    }
+  },
+  "images": {
+    "face": "ioriOrochi.webp"
+  },
+  "moves": {
+    "{normalThrows}": [
+      {
+        "name": "Hikirikine",
+        "input": "{close}, :b: {or} :f:+[C]"
+      },
+      {
+        "name": "Saka Sakahagi",
+        "input": "{close}, :b: {or} :f:+[D]"
+      }
+    ],
+    "{commandMoves}": [
+      {
+        "name": "Ge-Shiki: Yumebiki",
+        "input": ":f:+[A] > [A]"
+      },
+      {
+        "name": "Ge-Shiki: Gofu In 'Shinigami'",
+        "input": ":f:+[B]"
+      },
+      {
+        "name": "Ge-Shiki: Yuriori",
+        "input": "{inAir}, :b:+[B]"
+      }
+    ],
+    "{specialMoves}": [
+      {
+        "name": "108 Shiki: Yamibarai",
+        "input": ":qcf:+[A] {or} [C]"
+      },
+      {
+        "name": "100 Shiki: Oniyaki",
+        "input": ":dp:+[A] {or} [C]"
+      },
+      {
+        "name": "127 Shiki: Aoibana",
+        "input": ":qcb:+[A] {or} [C] ({upTo3x})"
+      },
+      {
+        "name": "212 Shiki: Kototsuki In",
+        "input": ":hcb:+[B] {or} [D]"
+      },
+      {
+        "name": "Kuzukaze",
+        "input": ":hcb::f:+[A] {or} [C]"
+      }
+    ],
+    "{desperationMoves}": [
+      {
+        "name": "Kin 1211 Shiki: Yaotome",
+        "input": ":qcf::df::qcb:+[A] {or} [C]"
+      }
+    ],
+    "{superDesperationMoves}": [
+      {
+        "name": "Ura 108 Shiki: Yasakazuki",
+        "input": ":qcb::db::qcf:+[A] {or} [C] ({hold} [A] {or} [C] {toDelay})"
+      }
+    ],
+    "{hiddenSuperDesperationMoves}": [
+      {
+        "name": "???!",
+        "input": ":qcf::df::qcb:+[B]+[D]"
+      }
+    ]
+  }
+}
