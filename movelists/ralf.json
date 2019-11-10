@@ -25,7 +25,7 @@
     "{specialMoves}": [
       {
         "name": "Vulcan Punch",
-        "input": ":dp:+[A] {or} [C] ({use} :f: {toMove})"
+        "input": "{tap} [A] {or} [C] {repeatedly} ({use} :f: {toMove})"
       },
       {
         "name": "Gatling Attack",
